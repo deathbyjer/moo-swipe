@@ -17,6 +17,7 @@ Where *foo* is the id of an element and *bar* is a function reference.
 The function (in this case _bar_) is given a single argument containing, at this point, two variables.
 
 The object looks as such:
+
     {
       axis: 0,
       dir: 1
